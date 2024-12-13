@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Sophie (she/her) 🩵
 
-<!--
-**bakuyy/bakuyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems Design engineering student at the University of Waterloo, and I enjoy building software solutions for the communities I care about. I am interested in AI/ML and backend development, currently looking into recommendation systems.
 
-Here are some ideas to get you started:
+- 2X Developer at RBC 
+- Building Chime, a Tinder-like way of discovering new music
+- 10x Hackathon Winner 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I'm looking to... 
+- Join diverse communities that engage in tech, I'm always on the lookout for cool programs, events and conferences!
+- Contribute to opensource
+
+### ☀️ I'm looking for fall 2025 internships! 
+Reach me at s482yang@uwaterloo.ca or <a href="https://www.linkedin.com/in/sophie-yang-66b855216/"> Linkedin</a>
+<br/>
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakuyy&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="bakuyy's GitHub Stats" />
