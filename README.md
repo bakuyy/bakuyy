@@ -2,7 +2,7 @@
 
 I'm a Systems Design engineering student at the University of Waterloo, and I enjoy building software solutions for the communities I care about. I am interested in AI/ML and backend development, currently looking into recommendation systems.
 
-- 2X Developer at RBC 
+- 2x Developer at RBC 
 - Building Chime, a Tinder-like way of discovering new music
 - 10x Hackathon Winner 
 
