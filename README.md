@@ -11,7 +11,7 @@ I'm a Systems Design engineering student at the University of Waterloo, and I en
 - Contribute to opensource
 
 ### ☀️ I'm looking for fall 2025 internships! 
-Reach me at s482yang@uwaterloo.ca or <a href="https://www.linkedin.com/in/sophie-yang-66b855216/"> Linkedin</a>
+Reach me at s482yang@uwaterloo.ca or <a href="https://www.linkedin.com/in/sophie-yang-66b855216/"> linkedin</a>!
 <br/>
 
 
