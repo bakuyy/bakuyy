@@ -16,4 +16,3 @@ Reach me at s482yang@uwaterloo.ca or <a href="https://www.linkedin.com/in/sophie
 
 
 
-![Github Stats](http://localhost:3000/api/widget/bakuyy/stats)
