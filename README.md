@@ -16,4 +16,4 @@ Reach me at s482yang@uwaterloo.ca or <a href="https://www.linkedin.com/in/sophie
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakuyy&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="bakuyy's GitHub Stats" />
+![Github Stats](http://localhost:3000/api/widget/bakuyy/stats)
