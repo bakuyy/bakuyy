@@ -14,5 +14,6 @@ I'm a Systems Design engineering student at the University of Waterloo, and I en
 Reach me at s482yang@uwaterloo.ca or <a href="https://www.linkedin.com/in/sophie-yang-66b855216/"> linkedin</a>!
 <br/>
 
+![Github Contributions](https://greptile-stats.vercel.app/api/widget/bakuyy/contributions)
 
 
